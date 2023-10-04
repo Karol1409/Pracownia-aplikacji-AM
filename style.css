@@ -1,0 +1,11 @@
+* {
+    background-color: aqua;
+    color: rgb(119, 116, 96);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    text-align: center;
+}
+
+h1 {
+    color: black;
+}
